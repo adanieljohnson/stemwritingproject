@@ -5,7 +5,7 @@ SWP has several interconnected strands.
 
 * The
 * One
-* Two
+* [Two](https://github.com/adanieljohnson/stemwritingproject/wiki)
 
 More text here.
 
