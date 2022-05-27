@@ -10,13 +10,13 @@ We have TWO homes on the web.
 
 ### Our Main Home is [BioQUEST/QUBES Hub](https://qubeshub.org/community/groups/stemwritingproject)
 
-That's where you can learn about our __Six Elements Model__ for teaching scientific writing, download our training and teaching resources, and collaborate with us on non-coding projects. It's also the best place to see how the strands of our different projects come together.
+That's where you can learn about our __[Six Elements Model](https://qubeshub.org/community/groups/stemwritingproject)__ for teaching scientific writing, download our training and teaching resources, and collaborate with us on non-coding projects. It's also the best place to see how the strands of our different projects come together.
 
 <br>
 
-### What Are We Doing on GitHub?!
+### What Will You Find on GitHub?!
 
-Here is where we store and share code and resources from our data analysis projects. We maintain several different repositories.
+Here is where we store and share code and data files from research and development projects. These are some of the current repositories.
 
 We have an [open-source Student Writing Guide for teaching scientific writing to undergraduates](https://github.com/adanieljohnson/SWP_student_writing_guide). The repo has all the text and supporting files required to publish it in print and digital formats. A separate repo from the [ABLE 2022 Workshop](https://github.com/adanieljohnson/ABLE_2022_Workshop) has detailed instructions for how to revise our guide for use at other institutions.
 
