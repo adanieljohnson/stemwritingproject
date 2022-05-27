@@ -5,7 +5,7 @@ We have TWO homes on the web.
 
 <br>
 
-### Our Main Home is on [BioQUEST/QUBES Hub](https://qubeshub.org/community/groups/stemwritingproject)
+### Our Main Home is [BioQUEST/QUBES Hub](https://qubeshub.org/community/groups/stemwritingproject)
 
 That's where you can learn about our __Six Elements Model__ for teaching scientific writing, download our training and teaching resources, and collaborate with us on non-coding projects. It's also the best place to see how the strands of our different projects come together.
 
