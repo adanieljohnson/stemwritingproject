@@ -14,7 +14,7 @@ That's where you can learn about our __Six Elements Model__ for teaching scienti
 
 <br>
 
-### What Are We Doing on GitHub?!
+### What Will You Find on GitHub?!
 
 Here is where we store and share code and resources from our data analysis projects. We maintain several different repositories.
 
