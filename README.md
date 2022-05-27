@@ -16,6 +16,9 @@ The [Biology Student Reports Archive](https://github.com/adanieljohnson/SWP_Stud
 
 The [GTA Comment Classifier](https://github.com/adanieljohnson/GTA_comment_classification) is a pilot project testing whether instructor comments on laboratory reports can be extracted and categorized on a mass scale.
 
+<br>
+
+***
 
 The STEM Writing Project is funded in part by NSF IUSE Program Award #1712423: "Improving Scientific Writing In Undergraduate STEM Classrooms: A Training Program for Students and Teaching Assistants Aided By Information Extraction Technology".
 All contents are the opinion of the project team, and are not endorsed by NSF or other supporting agency.
