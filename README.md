@@ -1,3 +1,5 @@
+![](SWP-logo.png)
+
 # Welcome to the STEM Writing Project
 We want to help STEM faculty make scientific writing a bigger part of their teaching toolbox. We have been putting together a collection of guidelines, training materials, class activites, student assessments, and deeper evaluation tools that make scientific writing instruction more evidence-based, systematic, and scalable. 
 
