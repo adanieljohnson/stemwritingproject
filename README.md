@@ -1,8 +1,15 @@
 # Welcome to the STEM Writing Project
 We want to help STEM faculty make scientific writing a bigger part of their teaching toolbox. We have been putting together a collection of guidelines, training materials, class activites, student assessments, and deeper evaluation tools that make scientific writing instruction more evidence-based, systematic, and scalable. 
 
-We have TWO homes on the web. Our main home is on the [BioQUEST/QUBES Hub](https://qubeshub.org/community/groups/stemwritingproject). That's where you can learn about our __Six Elements Model__ for teaching scientific writing, download our training and teaching resources, and collaborate with us on non-coding projects. It's also the best place to see how the strands of our different projects come together.
+We have TWO homes on the web.
 
+<br>
+
+### Our Main Home is on [BioQUEST/QUBES Hub](https://qubeshub.org/community/groups/stemwritingproject)
+
+That's where you can learn about our __Six Elements Model__ for teaching scientific writing, download our training and teaching resources, and collaborate with us on non-coding projects. It's also the best place to see how the strands of our different projects come together.
+
+<br>
 
 ### What Are We Doing on GitHub?!
 
