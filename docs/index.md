@@ -33,5 +33,5 @@ The [GTA Comment Classifier](https://github.com/adanieljohnson/GTA_comment_class
 The STEM Writing Project is funded in part by NSF IUSE Program Award #1712423: "Improving Scientific Writing In Undergraduate STEM Classrooms: A Training Program for Students and Teaching Assistants Aided By Information Extraction Technology".
 All contents are the opinion of the project team, and are not endorsed by NSF or other supporting agency.
 
-Except where noted, all content is licensed for reuse under[Creative Commons CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1) ![](https://github.com/adanieljohnson/stemwritingproject/docs/images/CC_logo.png)
+Except where noted, all content is licensed for reuse under[Creative Commons CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1) ![](/docs/assets/CC_logo.png)
 
