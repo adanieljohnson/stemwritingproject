@@ -1,8 +1,8 @@
 ## Welcome to the STEM Writing Project!
 
-![]([https://github.com/adanieljohnson/stemwritingproject/docs/assets/SWP_Logo.png)
+![](/assets/SWP_Logo.png)
 
-![](https://adanieljohnson.github.io/stemwritingproject/docs/assets/SWP_Logo.png)
+![](/assets/SWP_Logo.png)
 
 We want to help STEM faculty make scientific writing a bigger part of their teaching toolbox. We have been putting together a collection of guidelines, training materials, class activites, student assessments, and deeper evaluation tools that make scientific writing instruction more evidence-based, systematic, and scalable. 
 
