@@ -1,6 +1,6 @@
 ## Welcome to the STEM Writing Project!
 
-![](https://github.com/adanieljohnson/stemwritingproject/docs/images/SWP_Logo.png)
+![](/images/SWP_Logo.png)
 
 
 
