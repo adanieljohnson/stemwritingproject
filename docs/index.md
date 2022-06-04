@@ -1,6 +1,6 @@
 ## Welcome to the STEM Writing Project!
 
-![](/images/SWP_Logo.png)
+![](/docs/images/SWP_Logo.png)
 
 
 
