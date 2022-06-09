@@ -18,9 +18,9 @@ That's where you can learn about our __[Six Elements Model](https://qubeshub.org
 
 Here is where we store and share code and data files from research and development projects. These are some of the current repositories.
 
-We have an [open-source Student Writing Guide for teaching scientific writing to undergraduates](https://github.com/adanieljohnson/SWP_student_writing_guide). The repo has all the text and supporting files required to publish it in print and digital formats. A separate repo from the [ABLE 2022 Workshop](https://github.com/adanieljohnson/ABLE_2022_Workshop) has detailed instructions for how to revise our guide for use at other institutions.
+We have an [open-source Student Writing Guide for teaching scientific writing to undergraduates](https://github.com/adanieljohnson/SWP_student_writing_guide). The repo contains all the text and supporting files required to publish the Guide in print and digital formats. A second repo from the [ABLE 2022 Workshop](https://github.com/adanieljohnson/ABLE_2022_Workshop) details how to revise our guide for use at other institutions.
 
-The [SAWHET v2.0](https://github.com/adanieljohnson/shinyapp.qubes) repo is an R Shiny application that collects and validates student lab reports. The code is released under a broad license for others to modify and extend.
+The [SAWHET v2.0](https://github.com/adanieljohnson/shinyapp.qubes) repo is an R Shiny application that collects and validates student lab reports. The code is released under a GNU GPL3 license for others to modify and extend. [A free public version of the application is available here.](https://yelr6j-dan-johnson.shinyapps.io/sawhet_v2_0/)
 
 The [Biology Student Reports Archive](https://github.com/adanieljohnson/SWP_Student_Reports_Archive) contains >4400 anonymized student reports plus metadata, for research in text mining and computational linguistics.
 
