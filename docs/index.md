@@ -24,7 +24,7 @@ The __[SAWHET v2.0](https://github.com/adanieljohnson/SAWHET_2)__ repo contains 
 
 The __[Biology Student Reports Archive](https://github.com/adanieljohnson/SWP_Student_Reports_Archive)__ is our published dataset for research in text mining and computational linguistics. It contains >4400 anonymized student reports plus metadata, licensed for non-commercial academic uses.
 
-The __0GTA Comment Classifier__ is a proof-of-concept project testing whether instructor comments on laboratory reports can be extracted and categorized on a mass scale. Link to the __[project web site](https://adanieljohnson.github.io/GTA_comment_classification/)__; link to __[data repository](https://github.com/adanieljohnson/GTA_comment_classification)__
+The __GTA Comment Classifier__ is a proof-of-concept project testing whether instructor comments on laboratory reports can be extracted and categorized on a mass scale. Link to the __[project web site](https://adanieljohnson.github.io/GTA_comment_classification/)__; link to __[data repository](https://github.com/adanieljohnson/GTA_comment_classification)__
 
 <br>
 
