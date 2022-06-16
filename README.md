@@ -18,13 +18,13 @@ QUBES Hub is where you can learn about our __[Six Elements Model](https://qubesh
 
 This is where we store and share code and data files from research and development projects. These are some of the repositories associated with our project.
 
-Our __[open-source Student Writing Guide for teaching scientific writing to undergraduates](https://github.com/adanieljohnson/SWP_student_writing_guide).__ The repo contains all the text and supporting files required to publish the Guide in print and digital formats. A second repo from the __[ABLE 2022 Workshop](https://github.com/adanieljohnson/ABLE_2022_Workshop)__ details how to revise our guide for use at other institutions.
+Our __[open-source Student Writing Guide for teaching scientific writing to undergraduates](https://github.com/adanieljohnson/SWP_student_writing_guide).__ The repo contains all text and supporting files required to publish the Guide in print and digital formats. A second repo from the __[ABLE 2022 Workshop](https://github.com/adanieljohnson/ABLE_2022_Workshop)__ details how to revise the Resource Guide.
 
-The __[SAWHET v2.0](https://github.com/adanieljohnson/shinyapp.qubes)__ repo contains an R Shiny application that collects and validates student lab reports. The code is released under a GNU GPL3 license for others to modify and extend. __[A free public version of the application is available here.](https://yelr6j-dan-johnson.shinyapps.io/sawhet_v2_0/)__
+The __[SAWHET v2.0](https://github.com/adanieljohnson/SAWHET_2)__ repo contains an R Shiny application that collects and validates student lab reports. The code is released under a GNU GPL3 license for others to modify and extend. __[A free public version of the application is available here.](https://yelr6j-dan-johnson.shinyapps.io/sawhet_v2_0/)__
 
 The __[Biology Student Reports Archive](https://github.com/adanieljohnson/SWP_Student_Reports_Archive)__ is our published dataset for research in text mining and computational linguistics. It contains >4400 anonymized student reports plus metadata, licensed for non-commercial academic uses.
 
-The __[GTA Comment Classifier](https://github.com/adanieljohnson/GTA_comment_classification)__ is a proof-of-concept project testing whether instructor comments on laboratory reports can be extracted and categorized on a mass scale.
+The __0GTA Comment Classifier__ is a proof-of-concept project testing whether instructor comments on laboratory reports can be extracted and categorized on a mass scale. __[Link to the web site](https://adanieljohnson.github.io/GTA_comment_classification/); [link to data repository](https://github.com/adanieljohnson/GTA_comment_classification)__
 
 <br>
 
