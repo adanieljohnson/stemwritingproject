@@ -16,7 +16,7 @@ QUBES Hub is where you can learn about our __[Six Elements Model](https://qubesh
 
 ### Our Second Home Is Here on GitHub!
 
-This is where we store and share code and data files from research and development projects. These are some of the repositories associated with our project.
+This is where we store and share code and data files from research and development projects. These are some of our repositories.
 
 Our __[open-source Student Writing Guide for teaching scientific writing to undergraduates](https://github.com/adanieljohnson/SWP_student_writing_guide).__ The repo contains all text and supporting files required to publish the Guide in print and digital formats. A second repo from the __[ABLE 2022 Workshop](https://github.com/adanieljohnson/ABLE_2022_Workshop)__ details how to revise the Resource Guide.
 
